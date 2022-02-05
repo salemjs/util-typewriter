@@ -1,6 +1,7 @@
 /**
  * @async
  * @public {function}
+ * @param {Element} element
  * @param {String} text
  */
 const type = async function (element, text) {
